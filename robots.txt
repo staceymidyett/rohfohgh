@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aequaefii.iskconstlouis.org/sitemap.xml
